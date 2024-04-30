@@ -1,7 +1,7 @@
-### 🤞 Nice way to meet me
+#### 🤞 Nice way to meet me:)
 
 <p>
-👋  Hi there I'm Myeonggeun. I'm interested in making IT services.
+👋  Hi there! I'm Myeonggeun. I'm interested in making IT services.
   </p>
 <!-- <h3 align="">🌈 Follow Me 🌈</h3> -->
 <p align="">
